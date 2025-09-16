@@ -1,6 +1,6 @@
-# Regression Logistica - Machine Learning
+# Machine Learning
 
-Este proyecto es una aplicación con **Flask** para presentar Regresion Logistica.  
+Este proyecto es una aplicación con **Flask** para presentar conceptos.  
 Incluye estructura con **HTML + CSS + Bootstrap**, y está listo para ejecutarse en cualquier máquina usando un entorno virtual de Python.
 
 ---
